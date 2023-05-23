@@ -1,2 +1,1 @@
-# sw1ft-new
-sw1ft
+# dont download this, goto releases & download from there
